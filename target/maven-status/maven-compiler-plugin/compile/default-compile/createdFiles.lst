@@ -1,0 +1,5 @@
+com\javainuse\taskconfig\configurations\DynamoDBConfig.class
+com\javainuse\taskconfig\model\Email.class
+com\javainuse\taskconfig\ScheduledTasks.class
+com\javainuse\taskconfig\repo\EmailRepository.class
+com\javainuse\taskconfig\SpringBootMainApplication.class
